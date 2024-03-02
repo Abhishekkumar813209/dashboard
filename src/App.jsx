@@ -28,7 +28,7 @@ function App() {
                 Sidebar w-0
               </div>
             )}
-
+            {/* Useful tip if reptition of classname are there */}
               <div className={
                 `dark:bg-main-bg bg-main-bg min-h-screen w-full ${activeMenu ? 'md:ml-72':'flex-2'}`
               }>
