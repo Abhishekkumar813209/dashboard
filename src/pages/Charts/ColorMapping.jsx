@@ -1,5 +1,5 @@
 
-function ColorMaker() {
+function ColorMapping() {
   return (
     <div>
       ColorMaker
@@ -7,4 +7,4 @@ function ColorMaker() {
   );
 }
 
-export default ColorMaker;
+export default ColorMapping;

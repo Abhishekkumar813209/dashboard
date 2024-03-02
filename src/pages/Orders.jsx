@@ -1,5 +1,5 @@
 
-function Order() {
+function Orders() {
   return (
     <div>
       Order
@@ -7,4 +7,4 @@ function Order() {
   );
 }
 
-export default Order;
+export default Orders;
